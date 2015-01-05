@@ -1,15 +1,12 @@
-# Principles of writing consistent, idiomatic CSS
-
-The following document outlines a reasonable style guide for CSS development.
-It is not meant to be prescriptive and I do not wish to impose my style
-preferences on other people's code. However, these guidelines do strongly
-encourage the use of existing, common, sensible patterns.
-
-This is a living document and new ideas are always welcome. Please
-contribute.
+# Principios de escritura coherente para Hojas de Estilo CSS
 
 
-## Translations
+El siguiente documento describe una guía de estilo recomndable para el desarrollo de Hojas de Estilo. No tiene la intención de ser preceptivo y no deseo imponer mis preferencias de estilo de código de otras personas. Sin embargo, estas directrices no alentamos firmemente el uso de, patrones sensibles comunes existentes.
+
+Este es un documento vivo y las nuevas ideas son siempre bienvenidas. Ayude contribuyendo. 
+
+
+## Traducciones
 
 * [Italiano](https://github.com/necolas/idiomatic-css/tree/master/translations/it-IT)
 * [日本語](https://github.com/necolas/idiomatic-css/tree/master/translations/ja-JP)
@@ -20,22 +17,22 @@ contribute.
 * [简体中文](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)
 
 
-## Table of contents
+## Tabla de contenidos
 
-1. [General principles](#general-principles)
-2. [Whitespace](#whitespace)
-3. [Comments](#comments)
-4. [Format](#format)
-5. [Naming](#naming)
-6. [Practical example](#example)
-7. [Organization](#organization)
-8. [Build and deployment](#build-and-deployment)
+1. [Principios Generales](#general-principles)
+2. [Espacios en Blanco](#whitespace)
+3. [Comentarios](#comments)
+4. [Formato](#format)
+5. [Nombrando](#naming)
+6. [Ejemplo Practico](#example)
+7. [Organización](#organization)
+8. [Construcción y Desarrollo](#build-and-deployment)
 
 [Acknowledgements](#acknowledgements)
 
 
 <a name="general-principles"></a>
-## 1. General principles
+## 1. Principios Generales
 
 > "Part of being a good steward to a successful project is realizing that
 > writing code for yourself is a Bad Idea™. If thousands of people are using
@@ -49,7 +46,7 @@ contribute.
 
 
 <a name="whitespace"></a>
-## 2. Whitespace
+## 2. Espacios en Blanco
 
 Only one style should exist across the entire source of your project. Always be
 consistent in your use of whitespace. Use whitespace to improve readability.
